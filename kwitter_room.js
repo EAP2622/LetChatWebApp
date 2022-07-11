@@ -30,3 +30,8 @@ function redirect() {
   localStorage.setItem("room_name", room_name);
     window.location="kwitter_room.html";
 }
+
+function send() {
+  document.getElementById("message");
+  message="";
+}

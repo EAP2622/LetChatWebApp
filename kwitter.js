@@ -4,3 +4,7 @@ function addUser() {
     window.location="kwitter_room.html";
 }
 
+function logout () {
+    window.location="kwitter.html"
+}
+
